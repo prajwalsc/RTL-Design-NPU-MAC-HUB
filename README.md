@@ -146,4 +146,4 @@ Zero is encoded as `0x7FF` (all-ones exponent/mantissa) or `0x000`.
 
 ## Course Context
 
-This project was developed for **CMPE/ECE 272 – SoC Design**, exploring ring-bus-based NPU microarchitectures, custom floating-point representations, and hardware–software co-design principles.
+This project was developed for **EE 272 – SoC Design**, exploring ring-bus-based NPU microarchitectures, custom floating-point representations, and hardware–software co-design principles.
